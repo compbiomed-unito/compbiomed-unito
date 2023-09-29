@@ -5,5 +5,8 @@ Members:
 - Piero Fariselli
 - Tiziana Sanavia
 - Giovanni Birolo
-- Silvia Benevenuta
 - Corrado Pancotti
+- Cesare Rollo
+- Francesco Codicè
+- Flavio Sartori
+- Isabella Caranzano
